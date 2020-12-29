@@ -1,0 +1,9 @@
+ErrorDocument 404 /err/404.html
+
+Redirect /add /addbot.html
+Redirect /addbot /addbot.html
+Redirect /server https://discord.gg/fDdJMcnG42
+
+Redirect /blog http://blog.officialshrekbot.rf.gd/
+
+Redirect /news http://blog.officialshrekbot.rf.gd/
