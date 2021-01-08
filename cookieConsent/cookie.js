@@ -5,7 +5,7 @@
  */
 var cookieTitle = "Cookies."; // Title
 var cookieDesc = "By using this website, you automatically accept that we use cookies."; // Description
-var cookieLink = '<a href="cookiepolicy.html" target="_blank">What for?</a>'; // Cookiepolicy link
+var cookieLink = '<a href="http://shrekbot.tk/cookiepolicy.html" target="_blank">What for?</a>'; // Cookiepolicy link
 var cookieButton = "Understood"; // Button text
 
 
